@@ -1,0 +1,20 @@
+{
+  "name": "atomic-ui",
+  "private": true,
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BorDevTech/AtomicUI.git"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "keywords": [],
+  "author": "Devell Robinson (BorDevTech)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BorDevTech/AtomicUI/issues"
+  },
+  "homepage": "https://github.com/BorDevTech/AtomicUI#readme"
+}
