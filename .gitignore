@@ -10,6 +10,8 @@ dist/
 build/
 .esbuild/
 .turbo/
+.vercel/
+.next/ 
 
 # TypeScript
 *.tsbuildinfo
